@@ -40,7 +40,8 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David3761&show_icons=true&theme=radium" alt="David3761's GitHub stats" />
-</p>
+<div align="center">
+  
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=David3761&theme=dracula)
+  ![David3761's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David3761&theme=dracula)
+</div>
