@@ -41,6 +41,6 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David3761&show_icons=true&theme=radium" alt="My GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=David3761&show_icons=true&theme=radium" alt="David3761's GitHub stats" />
+</p>
