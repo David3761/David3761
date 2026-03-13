@@ -1,13 +1,13 @@
 # Hi, I'm David 👋
 
-> I'm passionate Flutter developer and cybersecurity enthusiast. I love both building and breaking apps, while also being interested in pentesting and network security.
+> I'm a passionate Flutter developer and cybersecurity enthusiast. I love both building and breaking apps, while also being interested in pentesting and network security.
 
 ---
 
 ### 🚀 About Me
 
 * 🔭 I’m currently working on **A security oriented chat app and CTFs**
-* 🌱 I’m constantly learning about **Full-Stack development and Penetration testing**
+* 🌱 I’m constantly learning about **Full-Stack mobile development, Penetration testing and network security**
 ---
 
 ### 💻 Tech Stack
